@@ -6,8 +6,4 @@ I am a full-stack developer, educator, and entrepreneur based in the US Mountain
 
 ## Barkelona
 
-[**Barkelona**](https://barkelona.com) is a video game for Spanish learners that my wife and I made.
-
-- [Steam](https://store.steampowered.com/app/2434300): full game with achievements
-- [Itch.io](https://hoodmentality.itch.io/barkelona): free demo, full version pay-what-you-want 
-- **For teachers:** the web version is free for classroom use, needs no student accounts, and keeps no student data. [Barkelona.com](https://barkelona.com) also has quizzes and resources for educators
+[**Barkelona**](https://barkelona.com) is a comprehensible-input video game for Spanish learners that my wife and I made. The web version is free for classroom use, needs no student accounts, and stores no user data. [Barkelona.com](https://barkelona.com/Resources/) also has quizzes and resources for educators. It's available on [Steam](https://store.steampowered.com/app/2434300) and [Itch.io](https://hoodmentality.itch.io/barkelona).
